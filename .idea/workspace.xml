@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="403424bf-67ff-4adb-aa34-e985e52a3ef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="org.springframework.boot:spring-boot-starter-web:2.1.7.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ohsy\IdeaProjects\freelec-springboot2-webservice" />
+        <option value="C:\Users\ohsy\IdeaProjects\freelec-springboot2-webservice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VKXu4CjDoysGos9R5rpdmVKItJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403424bf-67ff-4adb-aa34-e985e52a3ef9" name="Default Changelist" comment="" />
+      <created>1577002979984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577002979984</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1577007475747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577007475747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="91" key="#Plugins" timestamp="1577007060212">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="91" key="#Plugins/0.0.1474.864@0.0.1474.864" timestamp="1577007060212" />
+    <state x="282" y="28" key="CommitChangelistDialog2" timestamp="1577007474827">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="282" y="28" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1577007474827" />
+    <state x="556" y="323" key="Github.ShareDialog" timestamp="1577006713878">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="556" y="323" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1577006713878" />
+    <state x="409" y="138" key="Github.UntrackedFilesDialog" timestamp="1577006896110">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="409" y="138" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1577006896110" />
+    <state x="246" y="75" key="SettingsEditor" timestamp="1577007149902">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="246" y="75" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1577007149902" />
+    <state x="434" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1577007179366">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="257" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1577007179366" />
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1577007094195">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1577007094195" />
+  </component>
+</project>
